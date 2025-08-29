@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "TSV Meerbusch",
+    "logo": "https://tsvm-fussball.de/wp-content/uploads/2025/03/Bild-1.png"
+  },
+  {
+    "id": 2,
+    "name": "Bayer Dormagen",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_TSV_Bayer_Dormagen.svg/600px-Logo_TSV_Bayer_Dormagen.svg.png"
+  },
+  {
+    "id": 3,
+    "name": "1. FC Mönchengladbach",
+    "logo": "https://1fcmg.de/gfx/relaunch_2024/relaunch_2022/logo.png"
+  },
+  {
+    "id": 4,
+    "name": "VfL Viktoria Jüchen Garzweiler",
+    "logo": "https://www.vflviktoria.de/sites/default/files/logo_0.png"
+  },
+  {
+    "id": 5,
+    "name": "TURU Düsseldorf",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Turuduesseldorf.svg/800px-Turuduesseldorf.svg.png"
+  },
+  {
+    "id": 6,
+    "name": "SC Krefeld 05",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sportclub_Krefeld_05_logo.svg/800px-Sportclub_Krefeld_05_logo.svg.png"
+  },
+  {
+    "id": 7,
+    "name": "SV Wersten 04",
+    "logo": "https://svwersten04-jugend.de/wp-content/uploads/2020/04/menu_logo_100.png"
+  },
+  {
+    "id": 8,
+    "name": "PSV Düsseldorf",
+    "logo": "https://polizei-sv-duesseldorf.de/wp-content/uploads/elementor/thumbs/PSV-Logo_RGB-pozk4uk5j8tdnqni37ibdkpt21fp4cfiu1v3cvhpvo.png"
+  },
+  {
+    "id": 9,
+    "name": "Wuppertaler SV",
+    "logo": "https://www.wsv1954.de/assets/logos/5b2d7a32-202f-432e-923a-7e48a84a36c2.svg"
+  },
+  {
+    "id": 10,
+    "name": "Borussia Hohenlind (grün)",
+    "logo": "https://image.fupa.net/club/MEIQn4LdG96z/image.svg"
+  },
+  {
+    "id": 11,
+    "name": "Fortuna Köln",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SC_Fortuna_Koeln_Logo_2019%E2%80%93.svg/220px-SC_Fortuna_Koeln_Logo_2019%E2%80%93.svg.png"
+  },
+  {
+    "id": 12,
+    "name": "DJK Südwest",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/DJK_S%C3%BCdwest_K%C3%B6ln_logo.svg/1200px-DJK_S%C3%BCdwest_K%C3%B6ln_logo.svg.png"
+  },
+  {
+    "id": 13,
+    "name": "Bergfried Leverkusen",
+    "logo": "https://bergfried-leverkusen.de/upload/news/SVB_Wappen.png"
+  },
+  {
+    "id": 14,
+    "name": "SV Bergisch Gladbach 09",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/00/SV_Bergisch_Gladbach_09_Logo.png"
+  },
+  {
+    "id": 15,
+    "name": "Adler Dellbrück",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/SV_Adler_Dellbrueck_Logo.png/600px-SV_Adler_Dellbrueck_Logo.png"
+  },
+  {
+    "id": 16,
+    "name": "TuS Köln rrh.",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Logo_TuS_K%C3%B6ln.svg/570px-Logo_TuS_K%C3%B6ln.svg.png"
+  },
+  {
+    "id": 17,
+    "name": "SSV Bornheim",
+    "logo": "https://ssv-bornheim.de/wp-content/uploads/2024/08/SSV_Bornheim_Logo-1.webp"
+  },
+  {
+    "id": 18,
+    "name": "SC Blau Weiß Köln",
+    "logo": "https://www.holdsport.dk/media/W1siZiIsIjIwMjQvMDEvMDUvMWF4b2ZvNzVmam5fQzQ2NTkxMDYtQzA5NC00MkFCLUI2NDctQTI1REY5NjZERDUxLlBORyJdLFsicCIsInRodW1iIiwiMzUweDM1MCJdXQ==?sha=46692af70ee1b6ba"
+  },
+  {
+    "id": 19,
+    "name": "Borussia Hohenlind (weiß)",
+    "logo": "https://image.fupa.net/club/MEIQn4LdG96z/image.svg"
+  },
+  {
+    "id": 20,
+    "name": "1. JFS Köln",
+    "logo": "https://tmssl.akamaized.net//images/wappen/head/23989.png?lm=1456081420"
+  },
+  {
+    "id": 21,
+    "name": "GKSC Hürth",
+    "logo": "https://tmssl.akamaized.net//images/wappen/big/6834.png?lm=1474149275"
+  },
+  {
+    "id": 22,
+    "name": "SG Marmagen/Nettersheim",
+    "logo": "https://sgsportfreunde69.de/fileadmin/sgsportfreunde69/Resources/Public/Images/logo.png"
+  },
+  {
+    "id": 23,
+    "name": "SC Rheinbach",
+    "logo": "https://i0.wp.com/sc-rheinbach.de/wp-content/uploads/2019/06/sc1913_logo_frei-127x150.jpg"
+  },
+  {
+    "id": 24,
+    "name": "JSG Erft 01 Euskirchen",
+    "logo": "https://fotos.verwaltungsportal.de/mandate/logo/jugendsportgemeinschaft_erft_01.jpg"
+  },
+  {
+    "id": 25,
+    "name": "SV Lövenich-Widdersdorf",
+    "logo": "https://www.sv-loewi.de/wp-content/uploads/2022/02/cropped-loewi_wappen2-1-3.png"
+  },
+  {
+    "id": 26,
+    "name": "FC Pesch II",
+    "logo": "https://static.wixstatic.com/media/abd83f_d44df4c27db14387a09b95e1639a8dfc~mv2.webp/v1/fill/w_144,h_144,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/fcpesch_logo.webp"
+  },
+  {
+    "id": 27,
+    "name": "SV Rheidt",
+    "logo": "https://image.fupa.net/club/sy9542NDV16F/64x64.webp"
+  },
+  {
+    "id": 28,
+    "name": "SC West III",
+    "logo": "https://www.sc-west-koeln.de/wp-content/uploads/2025/01/cropped-20_08_06_SC_WEST_LOGO_Redesign_edited-2.webp"
+  },
+  {
+    "id": 29,
+    "name": "Borussia Brand",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Borussia_Brand_Logo.png"
+  },
+  {
+    "id": 30,
+    "name": "Pulheimer SC",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/PulheimerscSC.svg/1280px-PulheimerscSC.svg.png"
+  },
+  {
+    "id": 31,
+    "name": "Germania Lich-Steinstraß",
+    "logo": "https://germania-lich-steinstrass.de/wp-content/uploads/2019/07/cropped-cropped-Logo_FCGermania_Favicon-1-1.png"
+  },
+  {
+    "id": 32,
+    "name": "FC Eschweiler",
+    "logo": "https://tmssl.akamaized.net//images/wappen/head/82720.png?lm=1646234496"
+  }
+]

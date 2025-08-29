@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admin Panel – Champions League</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-900">
+  <header class="bg-blue-800 text-white p-4 text-center text-xl font-bold">
+    Admin Panel – Ergebnisse bearbeiten
+  </header>
+  <main class="p-4 max-w-3xl mx-auto">
+    <div id="loginSection" class="space-y-4">
+      <p class="text-center">Bitte Passwort eingeben, um fortzufahren:</p>
+      <input type="password" id="adminPassword" class="border p-2 w-full" placeholder="Passwort">
+      <button id="loginBtn" class="bg-blue-600 text-white px-4 py-2 rounded w-full">Login</button>
+    </div>
+    <div id="adminSection" class="hidden">
+      <h2 class="text-lg font-semibold mb-2">Spiele bearbeiten</h2>
+      <label for="adminMatchdaySelector">Spieltag auswählen:</label>
+      <select id="adminMatchdaySelector" class="border p-1"></select>
+      <div id="adminMatches" class="mt-4 space-y-2"></div>
+      <button id="saveBtn" class="bg-green-600 text-white px-4 py-2 rounded mt-4">Änderungen speichern</button>
+    </div>
+  
+    <section id="uploadLogoSection" class="hidden mt-8">
+      <h3 class="text-lg font-semibold mb-2">Team-Logo hochladen</h3>
+      <form id="logoUploadForm" class="space-y-2">
+        <label class="block">
+          Team auswählen:
+          <select id="teamSelector" class="border p-1 w-full"></select>
+        </label>
+        <label class="block">
+          Bild auswählen:
+          <input type="file" id="logoFile" accept="image/*" class="border p-1 w-full">
+        </label>
+        <button type="submit" class="bg-blue-700 text-white px-4 py-2 rounded">Logo hochladen</button>
+      </form>
+    </section>
+
+</main>
+  <footer class="bg-blue-800 text-white text-center p-2 mt-6">
+    &copy; 2025 Champions League Demo
+  </footer>
+  <script src="admin.js"></script>
+</body>
+</html>

@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "matchday": 1,
+    "date": "06.09.2025",
+    "starttime": "14:00",
+    "homeTeam": 1,
+    "awayTeam": 2,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 2,
+    "matchday": 1,
+    "date": "06.09.2025",
+    "starttime": "14:00",
+    "homeTeam": 3,
+    "awayTeam": 4,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 3,
+    "matchday": 1,
+    "date": "06.09.2025",
+    "starttime": "14:00",
+    "homeTeam": 5,
+    "awayTeam": 6,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 4,
+    "matchday": 1,
+    "date": "06.09.2025",
+    "starttime": "14:00",
+    "homeTeam": 7,
+    "awayTeam": 8,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 5,
+    "matchday": 1,
+    "date": "06.09.2025",
+    "starttime": "14:00",
+    "homeTeam": 9,
+    "awayTeam": 10,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 6,
+    "matchday": 1,
+    "date": "06.09.2025",
+    "starttime": "14:00",
+    "homeTeam": 11,
+    "awayTeam": 12,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 7,
+    "matchday": 1,
+    "date": "06.09.2025",
+    "starttime": "14:00",
+    "homeTeam": 13,
+    "awayTeam": 14,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 8,
+    "matchday": 1,
+    "date": "06.09.2025",
+    "starttime": "14:00",
+    "homeTeam": 15,
+    "awayTeam": 16,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 9,
+    "matchday": 1,
+    "date": "06.09.2025",
+    "starttime": "14:00",
+    "homeTeam": 17,
+    "awayTeam": 18,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 10,
+    "matchday": 1,
+    "date": "06.09.2025",
+    "starttime": "14:00",
+    "homeTeam": 19,
+    "awayTeam": 20,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 11,
+    "matchday": 1,
+    "date": "06.09.2025",
+    "starttime": "14:00",
+    "homeTeam": 21,
+    "awayTeam": 22,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 12,
+    "matchday": 1,
+    "date": "06.09.2025",
+    "starttime": "14:00",
+    "homeTeam": 23,
+    "awayTeam": 24,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 13,
+    "matchday": 1,
+    "date": "06.09.2025",
+    "starttime": "14:00",
+    "homeTeam": 25,
+    "awayTeam": 26,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 14,
+    "matchday": 1,
+    "date": "06.09.2025",
+    "starttime": "14:00",
+    "homeTeam": 27,
+    "awayTeam": 28,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 15,
+    "matchday": 1,
+    "date": "06.09.2025",
+    "starttime": "14:00",
+    "homeTeam": 29,
+    "awayTeam": 30,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 16,
+    "matchday": 1,
+    "date": "06.09.2025",
+    "starttime": "14:00",
+    "homeTeam": 31,
+    "awayTeam": 32,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 17,
+    "matchday": 2,
+    "date": "04.10.2025",
+    "starttime": "14:00",
+    "homeTeam": 4,
+    "awayTeam": 1,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 18,
+    "matchday": 2,
+    "date": "04.10.2025",
+    "starttime": "14:00",
+    "homeTeam": 6,
+    "awayTeam": 2,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 19,
+    "matchday": 2,
+    "date": "04.10.2025",
+    "starttime": "14:00",
+    "homeTeam": 3,
+    "awayTeam": 7,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 20,
+    "matchday": 2,
+    "date": "04.10.2025",
+    "starttime": "14:00",
+    "homeTeam": 8,
+    "awayTeam": 5,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 21,
+    "matchday": 2,
+    "date": "04.10.2025",
+    "starttime": "14:00",
+    "homeTeam": 11,
+    "awayTeam": 9,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 22,
+    "matchday": 2,
+    "date": "04.10.2025",
+    "starttime": "14:00",
+    "homeTeam": 14,
+    "awayTeam": 10,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 23,
+    "matchday": 2,
+    "date": "04.10.2025",
+    "starttime": "14:00",
+    "homeTeam": 12,
+    "awayTeam": 15,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 24,
+    "matchday": 2,
+    "date": "04.10.2025",
+    "starttime": "14:00",
+    "homeTeam": 16,
+    "awayTeam": 13,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 25,
+    "matchday": 2,
+    "date": "04.10.2025",
+    "starttime": "14:00",
+    "homeTeam": 19,
+    "awayTeam": 17,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 26,
+    "matchday": 2,
+    "date": "04.10.2025",
+    "starttime": "14:00",
+    "homeTeam": 22,
+    "awayTeam": 18,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 27,
+    "matchday": 2,
+    "date": "04.10.2025",
+    "starttime": "14:00",
+    "homeTeam": 20,
+    "awayTeam": 23,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 28,
+    "matchday": 2,
+    "date": "04.10.2025",
+    "starttime": "14:00",
+    "homeTeam": 24,
+    "awayTeam": 21,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 29,
+    "matchday": 2,
+    "date": "04.10.2025",
+    "starttime": "14:00",
+    "homeTeam": 27,
+    "awayTeam": 25,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 30,
+    "matchday": 2,
+    "date": "04.10.2025",
+    "starttime": "14:00",
+    "homeTeam": 30,
+    "awayTeam": 26,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 31,
+    "matchday": 2,
+    "date": "04.10.2025",
+    "starttime": "14:00",
+    "homeTeam": 28,
+    "awayTeam": 31,
+    "scoreHome": "",
+    "scoreAway": ""
+  },
+  {
+    "id": 32,
+    "matchday": 2,
+    "date": "04.10.2025",
+    "starttime": "14:00",
+    "homeTeam": 32,
+    "awayTeam": 29,
+    "scoreHome": "",
+    "scoreAway": ""
+  }
+]
