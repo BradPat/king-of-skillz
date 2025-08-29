@@ -5,7 +5,8 @@ const bodyParser = require("body-parser");
 const multer = require('multer');
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => console.log(`on ${PORT}`));
 
 app.use(express.static(path.join(__dirname, "public")));
 app.use(bodyParser.json());
